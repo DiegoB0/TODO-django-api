@@ -1,0 +1,5 @@
+# Carpeta del entorno virtual (venv)
+venv/
+
+# Base de datos SQLite
+db.sqlite3
